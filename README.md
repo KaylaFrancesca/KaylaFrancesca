@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm currently learning Data Science tools through courses and lectures. 
+Feel free to offer any suggestions on what helped you best.
+My current interest is to learn more about health informatics.
+Looking forward to discovering something new! ✨
 
 <!--
 **KaylaFrancesca/KaylaFrancesca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
